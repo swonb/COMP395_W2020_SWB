@@ -1,3 +1,3 @@
-# COMP394_W2020_SWB
+# COMP395_W2020_SWB
 
 classwork
